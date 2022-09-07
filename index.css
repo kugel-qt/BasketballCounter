@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url(CursedTimerULiL.ttf);
+}
+
 body {
     margin: 0;
     width: 575px;
